@@ -6,7 +6,7 @@ A blockchain-powered humanitarian aid distribution platform built on the **Stell
 
 ## Overview
 
-Traditional aid distribution is plagued by inefficiency, fraud, and lack of accountability. This tool replaces cash vouchers and manual ledgers with Stellar blockchain transactions — every payment is publicly auditable, instant, and near-zero cost.
+Traditional aid distribution is plagued by inefficiency, fraud, and lack of accountability. This tool replaces cash vouchers and manual ledgers with Stellar blockchain transactions — every payment is publicly auditable, instant, and near-zero cost
 
 **Key capabilities:**
 
