@@ -11,8 +11,8 @@ Traditional aid distribution is plagued by inefficiency, fraud, and lack of acco
 **Key capabilities:**
 
 - **Batch distribution** — send XLM (or any Stellar asset) to up to 100 recipients in a single transaction
-- **Burner wallet provisioning** — generate a Stellar keypair for a recipient and deliver the secret key via SMS (Twilio), no smartphone app required
-- **Geofence-gated claiming** — recipients can only claim aid when physically inside the designated disaster zone (browser Geolocation + ray-casting polygon check)
+- **Burner wallet provisioning** — generate a Stellar keypair for a recipient and deliver the secret key via SMS (Twilio), no smartphone app required.
+- **Geofence-gated claiming** — recipients can only claim aid when physically inside the designated disaster zone (browser.Geolocation + ray-casting polygon check)
 - **Transparency reports** — download a PDF audit trail of all aid transactions for a given NGO account
 - **PWA-ready** — ships with a service worker and web manifest for offline-capable field use
 
